@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "ADS030",
+            "nome": "Manutenção de Software e DevOps",
+            "nota": "5,0"
+        },
+        {
+            "id": "ADS032",
+            "nome": "Construção de Frontend",
+            "nota": "7,0"
+        },
+        {
+            "id": "ADS038",
+            "nome": "Governança de TI",
+            "nota": "2,0"
+        },
+        {
+            "id": "ADS040",
+            "nome": "Business Intelligence e Data Warehousing",
+            "nota": "10,0"
+        }
+    ]
+}
