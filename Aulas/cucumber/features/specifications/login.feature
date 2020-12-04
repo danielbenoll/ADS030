@@ -10,9 +10,9 @@ Funcionalidade: Login do Aluno Online
 
         Dado que o aluno deseja efetuar login
         Quando o aluno informa a matricula '<matricula>' e a senha '<senha>'
-        Então deve ser exibida a mensagem '<msg>'
+        Então deve ser exibido um '<alert>'
 
         Exemplos:
-            |matricula|senha|msg|
-            |1|123|Senha incorreta, tente novamente!|
-            |||Digite seu nÃºmero de matrÃ­cula!|
+            |matricula|senha|alert|
+            |1|123|#alert|
+            |2020100|senha123|.navbar|
